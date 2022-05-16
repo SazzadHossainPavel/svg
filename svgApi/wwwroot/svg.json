@@ -2,34 +2,10 @@
   "rectangle": [
     {
       "rectId": 1,
-      "height": 153,
-      "width": 225,
-      "xCoordinate": 249,
-      "yCoordinate": 75,
-      "svgId": 1
-    },
-    {
-      "rectId": 2,
-      "height": 208,
-      "width": 265,
-      "xCoordinate": 612,
-      "yCoordinate": 120,
-      "svgId": 1
-    },
-    {
-      "rectId": 3,
-      "height": 133,
-      "width": 165,
-      "xCoordinate": 58,
-      "yCoordinate": 122,
-      "svgId": 1
-    },
-    {
-      "rectId": 4,
-      "height": 80,
-      "width": 99,
-      "xCoordinate": 123,
-      "yCoordinate": 25,
+      "height": 183,
+      "width": 255,
+      "xCoordinate": 232,
+      "yCoordinate": 96,
       "svgId": 1
     }
   ]
