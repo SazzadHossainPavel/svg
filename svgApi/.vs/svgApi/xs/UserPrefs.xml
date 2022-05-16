@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{C4920799-DF5E-4FAC-BF23-21593D72D327}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.svgApi PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/RectangleController.cs">
+    <Files>
+      <File FileName="Program.cs" Line="46" Column="1" />
+      <File FileName="appsettings.json" Line="1" Column="1" />
+      <File FileName="appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="Properties/launchSettings.json" Line="12" Column="16" />
+      <File FileName="Models/Rectangle.cs" Line="13" Column="34" />
+      <File FileName="Controllers/RectangleContext.cs" Line="17" Column="1" />
+      <File FileName=".DS_Store" Line="1" Column="1" />
+      <File FileName="Migrations/20220514211847_firstCreate.cs" Line="1" Column="1" />
+      <File FileName="Controllers/RectangleController.cs" Line="69" Column="51" />
+      <File FileName="wwwroot/svg.json" Line="7" Column="20" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="svgApi" expanded="True">
+            <Node name="svgApi" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="wwwroot" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

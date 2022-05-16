@@ -1,0 +1,12 @@
+.canvasShape {
+  min-height: 530px;
+  width: 100%;
+  border: solid;
+  border-color: lightgrey;
+}
+
+.shape {
+  fill-opacity: 0.5;
+  stroke: black;
+  stroke-width: 1;
+}

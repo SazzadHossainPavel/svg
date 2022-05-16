@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "9pdtaqQMoW3/Q60/aJBNWCDmW48bkdRVIJ/WPLh6QXE=",
+  "Source": "svgApi",
+  "BasePath": "_content/svgApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "svgApi/wwwroot",
+      "Source": "svgApi",
+      "ContentRoot": "/Users/sazzad/Documents/Work/SvgApp/svgApi/wwwroot/",
+      "BasePath": "_content/svgApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/sazzad/Documents/Work/SvgApp/svgApi/wwwroot/svg.json",
+      "SourceId": "svgApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/sazzad/Documents/Work/SvgApp/svgApi/wwwroot/",
+      "BasePath": "_content/svgApi",
+      "RelativePath": "svg.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/svg.json"
+    }
+  ]
+}

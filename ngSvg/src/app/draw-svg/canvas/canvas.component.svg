@@ -1,0 +1,32 @@
+<div class="container">
+  <div class="row">
+    <div class="col-md-12">
+      <svg
+        class="canvasShape"
+        (mousedown)="startDrawing($event)"
+        (mouseup)="stopDrawing()"
+        (mousemove)="keepDrawing($event)"
+      >
+        <g *ngFor="let rectangle of rectangles">
+          <rect
+            class="shape"
+            [id]="rectangle.id"
+            [style.stroke-width]="4"
+            [attr.height]="rectangle.height"
+            [attr.width]="rectangle.width"
+            [attr.x]="rectangle.xCoord"
+            [attr.y]="rectangle.yCoord"
+          ></rect>
+          <text
+            [attr.x]="rectangle.textXCoordinate"
+            [attr.y]="rectangle.textYCoordinate"
+            font-size="16"
+            fill="blue"
+          >
+            {{ rectangle.perimeter }}
+          </text>
+        </g>
+      </svg>
+    </div>
+  </div>
+</div>
